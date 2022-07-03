@@ -1,13 +1,4 @@
 # Real World Kubernetes
-This is a course with practical code examples about running Kubernetes in the real world.  
-
-This is a revamp of my somewhat popular O'Reilly class EKS in the data center.  I've taken feedback from the hundreds of people who have taken the class to make it more applicable to the real world.  
-
-The class is available on [O'Reilly's platform](https://learning.oreilly.com/home/).  If you have a log in you can search for my name (vallard) there and watch it.  If not, feel free to use this guide and read along. 
-
-This class is one giant demo, so you can probably follow the script easy and do this self paced. Pull requests are welcome if you see errors. 
-
-All content was created by me, [@vallard](https://twitter.com/vallard)
 
 
 
