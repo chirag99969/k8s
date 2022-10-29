@@ -1,7 +1,7 @@
 terraform {
   backend "s3" {
-    region = "us-west-2"
-    bucket = "k8sclass-tf-state"
+    region = "us-east-1"
+    bucket = "k8-eksdude"
     key = "iam/terraform.tfstate"
   }
 }
